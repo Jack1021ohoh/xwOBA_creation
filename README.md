@@ -13,3 +13,4 @@ This project focuses on creating and analyzing an xwOBA metric using machine lea
 - LightGBM
 - Scikit-learn
 - Matplotlib
+- Seaborn
